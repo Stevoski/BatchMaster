@@ -1,0 +1,10 @@
+batchmain\controllers\MainpageController.class
+batchmain\controllers\WeighBridgeController.class
+batchmain\controllers\setGetReceptionTable.class
+batchmain\controllers\SetGetBatchData.class
+batchmain\Mainbatchclass.class
+batchmain\controllers\DbConnector.class
+batchmain\controllers\EntranceController.class
+batchmain\controllers\RequestController.class
+batchmain\controllers\ComboValues.class
+batchmain\controllers\SetGetEntranceTable.class
